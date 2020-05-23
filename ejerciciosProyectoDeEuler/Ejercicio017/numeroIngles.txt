@@ -1,0 +1,226 @@
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'>
+<title>
+Conversor numérico en inglés: de cifras a letras
+</title>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-11731688-3";
+</script>
+<style>
+#english {
+         font-size: 125%;
+         border-style: solid;
+         border-width: 1px;
+         padding: 10px;
+}
+#multilingual {
+              font-size: 80%;
+}
+.error {
+       background: #fde;
+       margin: 10px;
+       padding: 10px;
+}
+#number {
+font-size: 125%;
+}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11731688-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<p><a href='/index.html'>LeMoDa top page</a></p>
+<h1>Conversor numérico en inglés: de cifras a letras</h1>
+<p>Entre los dígitos en el cuadro y pulse el botón para convertir a Inglés.</p>
+<form name='number-form'>
+<input type=search name='number' value='342' id='number' size=50>
+<input type='submit' value='A su vez este número en Inglés.'>
+</form>
+
+
+
+<p id='english'>
+Three hundred and forty-two
+</p>
+
+
+<p>
+<div id='multilingual'>
+
+
+
+<a href='index.cy.cgi'>Cymraeg</a>
+
+
+
+
+
+<a href='index.de.cgi'>Deutsch</a>
+
+
+
+
+
+<a href='index.el.cgi'>Ελληνικά</a>
+
+
+
+
+
+<a href='index.cgi'>English</a>
+
+
+
+
+
+
+
+<a href='index.fa.cgi'>فارسی</a>
+
+
+
+
+
+<a href='index.fi.cgi'>Suomi</a>
+
+
+
+
+
+<a href='index.fr.cgi'>Français</a>
+
+
+
+
+
+<a href='index.ga.cgi'>Gaeilge</a>
+
+
+
+
+
+<a href='index.it.cgi'>Italiano</a>
+
+
+
+
+
+<a href='index.ja.cgi'>日本語</a>
+
+
+
+
+
+<a href='index.lo.cgi'>ພາສາລາວ</a>
+
+
+
+
+
+<a href='index.nl.cgi'>Nederlands</a>
+
+
+
+
+
+<a href='index.no.cgi'>Nynorsk</a>
+
+
+
+
+
+<a href='index.pt.cgi'>Português</a>
+
+
+
+
+
+<a href='index.ru.cgi'>Русский</a>
+
+
+
+
+
+<a href='index.sq.cgi'>Shqip</a>
+
+
+
+
+
+<a href='index.sv.cgi'>Svenska</a>
+
+
+
+
+
+<a href='index.th.cgi'>ภาษาไทย</a>
+
+
+
+
+
+<a href='index.tl.cgi'>Tagalog</a>
+
+
+
+
+
+<a href='index.tr.cgi'>Türkçe</a>
+
+
+
+
+
+<a href='index.vi.cgi'>Tiếng Việt</a>
+
+
+
+
+
+<a href='index.zh-CN.cgi'>中文（简体）</a>
+
+
+
+
+
+<a href='index.zh-TW.cgi'>中文（繁體）</a>
+
+
+
+</div>
+</p>
+<div id='google-ad'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LeMoDa bar, 728x90, created 22/09/09 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6052617510425031"
+     data-ad-slot="6800468934"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p>
+
+For questions, comments, or corrections, email <a
+href='mailto:benkasminbullock@gmail.com'>Ben Bullock</a>.
+
+(benkasminbullock@gmail.com)
+</p>
+<p>
+<a href="/privacy.html">LeMoDa.net Privacy Policy</a>.
+</p>
+</body>
+</html>
