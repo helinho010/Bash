@@ -45,14 +45,14 @@ font-size: 125%;
 <h1>Conversor numérico en inglés: de cifras a letras</h1>
 <p>Entre los dígitos en el cuadro y pulse el botón para convertir a Inglés.</p>
 <form name='number-form'>
-<input type=search name='number' value='342' id='number' size=50>
+<input type=search name='number' value='5' id='number' size=50>
 <input type='submit' value='A su vez este número en Inglés.'>
 </form>
 
 
 
 <p id='english'>
-Three hundred and forty-two
+Five
 </p>
 
 
